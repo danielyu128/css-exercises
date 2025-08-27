@@ -1,0 +1,20 @@
+#special1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#special2 {
+    background-color: lightgreen;
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.unique {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.unique.bold {
+    font-size: 24px;
+}
