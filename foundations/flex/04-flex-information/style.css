@@ -10,7 +10,54 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 32px;
 }
+
+.plants {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 52px;
+  text-align: center;
+}
+
+.plant_1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  width: 200px;
+}
+
+.plant_2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: 200px;
+
+}
+
+.plant_3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: 200px;
+} 
+
+.plant_4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+    box-sizing: border-box;
+  width: 200px;
+}
+
 
 /* do not edit this footer */
 .footer {
